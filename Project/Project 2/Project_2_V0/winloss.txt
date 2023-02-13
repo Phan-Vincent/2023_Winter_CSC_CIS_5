@@ -1,0 +1,4 @@
+Vincent's stats: 
+You have won 1 time(s), lost 1 time(s), and tied 1 time(s). Win rate: 33.3333%. 
+You have not gotten blackjack yet.
+Your balance: $600
